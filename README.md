@@ -17,3 +17,5 @@ echo " Hello World! "
 Permission eg  chmod +x hello.sh   
 
 Execution eg  ./hello.sh
+
+Referance : https://www.javatpoint.com/bash-for-loop
